@@ -43,7 +43,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Step 1: Load the dataset
-data = pd.read_csv('tumor.csv')
+data = pd.read_csv('tumor (1).csv')
 
 # Step 2: Explore the dataset
 # Display the first few rows and column names to verify the structure
